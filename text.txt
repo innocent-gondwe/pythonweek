@@ -1,3 +1,1 @@
 1. Print the name of your primary school.
-2. Give your father's name.
-3. Give your mother's name.
